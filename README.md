@@ -1,4 +1,4 @@
-# Chest-X-Ray-Pneumonia-Classification
+# Chest-X-Ray-Pneumonia-Classification / Grad-CAM
 In this model, we used VGG19 for classification. 
 The model was trained for 20 epochs with a learning rate of 0.0001. After evaluating the trained model, we achieved an accuracy of 93.91%.
 Below are the Grad-CAM representations of the Pneumonia class and preprocessed X-ray images.
